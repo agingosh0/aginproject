@@ -1,0 +1,56 @@
+
+.home{
+    background-image:linear-gradient(rgba(0, 0, 0, 0.316),rgba(0, 0, 0, 0.315)), url("../image/homeimagemain.jpg");
+    background-size: cover;
+    height: 100vh;
+    text-align: center;
+   
+  
+}
+.login{
+    /* background-image: linear-gradient(to bottom right,rgba(86, 69, 38, 0.395),rgba(255, 255, 255, 0.096),rgba(63, 54, 38, 0.351)); */
+    background-image: linear-gradient(black);
+    
+    border-radius: 10px;
+    height: 550px;
+    width: 450px;
+    position: relative;
+    top: 100px;
+    left: 550px;
+    padding-top: 5px;
+    
+    
+}
+.login h1{
+    color: rgb(7, 7, 7);
+    font-size: 3.5rem;
+    position: relative;
+    /* top: 20px; */
+}
+.home-btn{
+    /* padding-top: 50px; */
+    position: relative;
+    top: 45px;
+}
+.home-btn button{
+    width:50%;
+    height: 55px;
+    font-size: 1.3rem;
+    margin-bottom: 20px;
+    border: 2px solid rgb(113, 108, 98);
+    border-radius: 50px;
+    
+        
+}
+.login h5{
+   padding-top: 12px;
+   color: rgb(204, 242, 13);
+}
+.login a{
+    text-decoration: none;
+    
+}
+.icon{
+    height: 1px;
+    padding-top: 30px;
+}
